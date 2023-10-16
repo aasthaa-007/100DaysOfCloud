@@ -28,3 +28,5 @@ At the end of this challenge, I'd like to:
 ☁ Day 3 [All about Compute Engine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/03.md)
 
 ☁ Day 4 [Installing HTTP server on your Virtual Machine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/04.md)
+
+☁ Day 5 [Internal and External IP Addresses](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/05.md)
