@@ -30,3 +30,5 @@ At the end of this challenge, I'd like to:
 ☁ Day 4 [Installing HTTP server on your Virtual Machine](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/04.md)
 
 ☁ Day 5 [Internal and External IP Addresses](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/05.md)
+
+☁ Day 6 [Simplifying web server startup with CE Startup script](https://github.com/aasthaa-007/100DaysofCloud/blob/main/Journey/06.md)
